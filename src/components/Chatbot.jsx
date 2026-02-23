@@ -1,3 +1,4 @@
+// GEMINI ONLY - no anthropic
 import { useState, useRef, useEffect } from "react";
 
 const SYSTEM_PROMPT = `You are a helpful assistant on Deither Amurao's portfolio website. 
