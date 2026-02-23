@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+﻿import { useEffect, useState } from 'react'
 import Nav from './components/Nav'
 import Hero from './components/Hero'
 import About from './components/About'
@@ -34,7 +34,7 @@ export default function App() {
         <Contact />
       </main>
       <footer style={{ maxWidth: 680, margin: '0 auto', padding: '20px 20px 40px', borderTop: '1px solid var(--border)', display: 'flex', justifyContent: 'space-between', flexWrap: 'wrap', gap: 8 }}>
-        <p style={{ fontSize: 13, color: 'var(--muted)' }}>© 2025 Deither Manaog Amurao. All rights reserved.</p>
+        <p style={{ fontSize: 13, color: 'var(--muted)' }}>2025 Deither Manaog Amurao. All rights reserved.</p>
         <p style={{ fontSize: 13, color: 'var(--muted)' }}>Calamba City, Laguna</p>
       </footer>
       <Chatbot />
