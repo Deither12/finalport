@@ -38,7 +38,7 @@ export default function App() {
         borderTop: '1px solid var(--border)',
         display: 'flex', justifyContent: 'space-between', flexWrap: 'wrap', gap: 8
       }}>
-        <p style={{ fontSize: 13, color: 'var(--muted)' }}>© 2025 Deither Manaog Amurao. All rights reserved.</p>
+        <p style={{ fontSize: 13, color: 'var(--muted)' }}>Â© 2025 Deither Manaog Amurao. All rights reserved.</p>
         <p style={{ fontSize: 13, color: 'var(--muted)' }}>Calamba City, Laguna</p>
       </footer>
       <Chatbot />
