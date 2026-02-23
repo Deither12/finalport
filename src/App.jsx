@@ -1,4 +1,4 @@
-﻿import { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import Nav from './components/Nav'
 import Hero from './components/Hero'
 import About from './components/About'
@@ -41,3 +41,4 @@ export default function App() {
     </div>
   )
 }
+
